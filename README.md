@@ -2,3 +2,4 @@
 
 text
 text gex
+text for commit details
